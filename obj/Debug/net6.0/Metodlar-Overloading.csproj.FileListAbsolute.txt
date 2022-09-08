@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\bin\Debug\net6.0\Metodlar-Overloading.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\bin\Debug\net6.0\Metodlar-Overloading.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\bin\Debug\net6.0\Metodlar-Overloading.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\bin\Debug\net6.0\Metodlar-Overloading.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\bin\Debug\net6.0\Metodlar-Overloading.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\Metodlar-Overloading.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\Metodlar-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\Metodlar-Overloading.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\Metodlar-Overloading.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\Metodlar-Overloading.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\Metodlar-Overloading.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\refint\Metodlar-Overloading.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\Metodlar-Overloading.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\Metodlar-Overloading.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Overloading\obj\Debug\net6.0\ref\Metodlar-Overloading.dll
